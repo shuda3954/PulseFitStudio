@@ -1,0 +1,20 @@
+E001,Treadmill 1,operational,04-10-2026,FINAL LOG TEST
+E002,Exercise Bike 1,operational,11-10-2026,Done
+E003,Rowing Machine 1,operational,25-02-2026,Seat checked
+E004,Leg Press Machine 1,under_maintenance,28-02-2026,Machine adjustment
+E005,Spin Bike 1,operational,05-03-2026,Brake checked
+E006,Yoga Mat 1,operational,08-03-2026,Mat cleaned
+E007,Treadmill 2,under_maintenance,12-03-2026,Belt checked
+E008,Exercise Bike 2,operational,15-03-2026,Pedal checked
+E009,Dumbbell Set 1,under_maintenance,18-03-2026,Handle checked
+E010,Exercise Mat 1,operational,20-03-2026,Mat cleaned
+E011,Rowing Machine 2,operational,22-03-2026,Handle checked
+E012,Leg Press Machine 2,under_maintenance,25-03-2026,Seat adjusted
+E013,Spin Bike 2,operational,28-03-2026,Brake checked
+E014,Treadmill 3,under_maintenance,30-03-2026,Belt checked
+E015,Exercise Bike 3,operational,02-04-2026,Pedal checked
+E016,Yoga Mat 2,operational,05-04-2026,Mat cleaned
+E017,Dumbbell Set 2,under_maintenance,08-04-2026,Handle checked
+E018,Rowing Machine 3,operational,10-04-2026,Seat checked
+E019,Leg Press Machine 3,operational,12-04-2026,Machine cleaned
+E020,Treadmill 4,under_maintenance,15-04-2026,Belt checked
